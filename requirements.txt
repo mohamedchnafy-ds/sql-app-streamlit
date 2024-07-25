@@ -1,6 +1,6 @@
 streamlit==1.37.0
 networkx==2.8.4
-matplotlib.pyplot
-Altair
-graphviz
-streamlit_ace
+matplotlib==3.5.2
+altair==5.3.0
+graphviz==0.20.1
+streamlit-ace==0.1.1
